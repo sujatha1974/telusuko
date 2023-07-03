@@ -1,3 +1,5 @@
 samdbuat5.cvvncb15lwdd.us-east-1.rds.amazonaws.com:5450/wndbdev
 spring.datasource.username=lmsappuser1
 spring.datasource.password=LMS!Test1
+
+spring.gatasource
